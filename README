@@ -1,0 +1,48 @@
+****************************************
+Author: Anugesh Balasubramaniam
+Date: 02/02/2018
+****************************************
+
+BRIEF DESCRIPTION:
+
+Tic-Tac-Toe game (Human Player vs Computer AI)
+
+****************************************
+
+COMPILATION:
+
+make
+
+****************************************
+
+EXECUTION:
+
+./runMe
+
+****************************************
+
+RUNTIME:
+
+PLAY TIC-TAC-TOE. Enter 1-9 TO PLAY
+            1 | 2 | 3 
+           ---+---+---
+            4 | 5 | 6 
+           ---+---+---
+            7 | 8 | 9 
+ Your move?
+5
+ After your move
+    |   |  
+ ---+---+---
+    | X |  
+ ---+---+---
+    |   |  
+ After my move
+    | O |  
+ ---+---+---
+    | X |  
+ ---+---+---
+    |   |  
+ Your move?
+
+****************************************
